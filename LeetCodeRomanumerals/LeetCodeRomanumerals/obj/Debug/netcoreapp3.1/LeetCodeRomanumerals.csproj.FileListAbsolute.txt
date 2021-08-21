@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\bin\Debug\netcoreapp3.1\LeetCodeRomanumerals.exe
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\bin\Debug\netcoreapp3.1\LeetCodeRomanumerals.deps.json
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\bin\Debug\netcoreapp3.1\LeetCodeRomanumerals.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\bin\Debug\netcoreapp3.1\LeetCodeRomanumerals.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\bin\Debug\netcoreapp3.1\LeetCodeRomanumerals.dll
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\bin\Debug\netcoreapp3.1\LeetCodeRomanumerals.pdb
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.dll
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.pdb
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.genruntimeconfig.cache
+C:\Users\prune\VisualStudioMSSA\Leet_Code_C_Sharp\LeetCodeRomanumerals\LeetCodeRomanumerals\obj\Debug\netcoreapp3.1\LeetCodeRomanumerals.csprojAssemblyReference.cache
