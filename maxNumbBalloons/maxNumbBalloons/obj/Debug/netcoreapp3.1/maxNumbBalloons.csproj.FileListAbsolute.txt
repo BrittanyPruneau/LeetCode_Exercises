@@ -1,0 +1,12 @@
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\bin\Debug\netcoreapp3.1\maxNumbBalloons.exe
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\bin\Debug\netcoreapp3.1\maxNumbBalloons.deps.json
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\bin\Debug\netcoreapp3.1\maxNumbBalloons.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\bin\Debug\netcoreapp3.1\maxNumbBalloons.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\bin\Debug\netcoreapp3.1\maxNumbBalloons.dll
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\bin\Debug\netcoreapp3.1\maxNumbBalloons.pdb
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\obj\Debug\netcoreapp3.1\maxNumbBalloons.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\obj\Debug\netcoreapp3.1\maxNumbBalloons.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\obj\Debug\netcoreapp3.1\maxNumbBalloons.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\obj\Debug\netcoreapp3.1\maxNumbBalloons.dll
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\obj\Debug\netcoreapp3.1\maxNumbBalloons.pdb
+C:\Users\prune\VisualStudioMSSA\maxNumbBalloons\maxNumbBalloons\obj\Debug\netcoreapp3.1\maxNumbBalloons.genruntimeconfig.cache
