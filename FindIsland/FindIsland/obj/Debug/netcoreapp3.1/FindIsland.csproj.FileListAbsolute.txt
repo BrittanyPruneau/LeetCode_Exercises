@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\bin\Debug\netcoreapp3.1\FindIsland.exe
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\bin\Debug\netcoreapp3.1\FindIsland.deps.json
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\bin\Debug\netcoreapp3.1\FindIsland.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\bin\Debug\netcoreapp3.1\FindIsland.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\bin\Debug\netcoreapp3.1\FindIsland.dll
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\bin\Debug\netcoreapp3.1\FindIsland.pdb
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.dll
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.pdb
+C:\Users\prune\VisualStudioMSSA\FindIsland\FindIsland\obj\Debug\netcoreapp3.1\FindIsland.genruntimeconfig.cache

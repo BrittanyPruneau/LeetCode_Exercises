@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\bin\Debug\netcoreapp3.1\IslandPerimeter.exe
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\bin\Debug\netcoreapp3.1\IslandPerimeter.deps.json
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\bin\Debug\netcoreapp3.1\IslandPerimeter.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\bin\Debug\netcoreapp3.1\IslandPerimeter.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\bin\Debug\netcoreapp3.1\IslandPerimeter.dll
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\bin\Debug\netcoreapp3.1\IslandPerimeter.pdb
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.dll
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.pdb
+C:\Users\prune\VisualStudioMSSA\IslandPerimeter\IslandPerimeter\obj\Debug\netcoreapp3.1\IslandPerimeter.genruntimeconfig.cache
